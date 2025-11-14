@@ -1,0 +1,20 @@
+div#div-angular-full {
+    width: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+h2#first-component {
+    margin-block: 1.5em;
+    text-align: center;
+}
+
+h2#name-semititle {
+    background-color: black;
+    color: aqua;
+    padding: 1.12rem;
+    border-radius: 10px;
+}

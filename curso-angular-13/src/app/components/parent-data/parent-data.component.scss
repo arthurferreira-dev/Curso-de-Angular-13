@@ -1,0 +1,15 @@
+h3 {
+  text-align: center;
+  margin-block: 1rem;
+}
+
+div#ul-center {
+  width: 100%;
+  & > ul {
+    gap: 10px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+  }
+}
