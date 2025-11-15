@@ -14,3 +14,4 @@ Curso de Angular na sua versão 13 do [Matheus Battisti](https://github.com/math
 8. [Diretivas do Angular](notes/aula08/Angular.md)
 9. [Renderização condicional](notes/aula09/Angular.md)
 10. [Eventos no Angular](notes/aula10/Angular.md)
+11. [Emitindo Eventos](notes/aula11/Angular.md)
