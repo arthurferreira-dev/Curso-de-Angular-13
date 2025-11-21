@@ -1,0 +1,11 @@
+<div class="aulas">
+  <h2>Empregos</h2>
+  <ul>
+    <li *ngFor="let job of jobs">
+      <span>{{ job.name }} (Precisa estudar {{ job.course }} para se tornar um)</span>
+      <button (click)="showMoney(job)">Mostrar salário</button>
+    </li>
+    <br>
+    <h3>{{showMoneyJob}}</h3>
+  </ul>
+</div>
